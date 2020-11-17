@@ -12,7 +12,7 @@
           rel="noopener noreferrer"
           class="button--green"
         >
-          Documentation
+          Useless link
         </a>
         <a
           href="https://github.com/nuxt/nuxt.js"
@@ -20,7 +20,7 @@
           rel="noopener noreferrer"
           class="button--grey"
         >
-          GitHub
+          Other useless link
         </a>
         <nuxt-link
           to="/test"
@@ -28,7 +28,7 @@
           rel="noopener noreferrer"
           class="button--grey"
         >
-          Test
+          Press TRITTO to play
         </nuxt-link>
       </div>
     </div>
